@@ -1,0 +1,35 @@
+[33mcommit 2abdc016fcdedf1a8da0faf5b949149ffccf4482[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: xiaoqiang.hao <xiaoqiang.hao@jiangrongxin.com>
+Date:   Mon May 6 15:10:19 2019 +0800
+
+    Git tracks changes of files
+
+[33mcommit bf016108a1db9c393ae107a3c838e2ca872b9f27[m
+Author: xiaoqiang.hao <xiaoqiang.hao@jiangrongxin.com>
+Date:   Mon May 6 15:08:49 2019 +0800
+
+    git tracks changes
+
+[33mcommit 5961a8be880ffd3c2774a4ae26661599d86c00e0[m
+Author: xiaoqiang.hao <xiaoqiang.hao@jiangrongxin.com>
+Date:   Mon May 6 15:04:39 2019 +0800
+
+    understand how stage works
+
+[33mcommit 9c899479d464bc2fd347df4565972bb7547ee854[m
+Author: xiaoqiang.hao <xiaoqiang.hao@jiangrongxin.com>
+Date:   Mon May 6 14:53:17 2019 +0800
+
+    append GPL
+
+[33mcommit 1fedb5d1b163897eb507a955c129baf8975202a1[m
+Author: xiaoqiang.hao <xiaoqiang.hao@jiangrongxin.com>
+Date:   Mon May 6 14:52:18 2019 +0800
+
+    add distributed
+
+[33mcommit a2db663881d72dff1c60a2ca57436ce8d5cc898f[m
+Author: xiaoqiang.hao <xiaoqiang.hao@jiangrongxin.com>
+Date:   Mon May 6 14:46:00 2019 +0800
+
+    wrote a readme file
